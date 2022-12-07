@@ -25,6 +25,5 @@ bubbleSort = (arr) ->
       
   
   return arr
-      
 
-// res = bubbleSort(users);
+res = bubbleSort(users);
